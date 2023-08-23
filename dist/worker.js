@@ -15,6 +15,8 @@ var configProviders = {
   "peasoft": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
   "getnode": "https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml",
   "nodefree": "https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree4clash.txt",
+"Benyamin": "https://raw.githubusercontent.com/benyamin95/v2ray-sub-for-iran/main/all-nodes-test",
+	"cypherpunk": "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
   "clashnode": "https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/clashnode4clash.txt"
 };
 
